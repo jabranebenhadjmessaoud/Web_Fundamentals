@@ -12,11 +12,14 @@
     height: 300px;
     width: 200px;
     background-color: blue;
+    display: inline-block;
 }
 .main {
     height: 400px;
     width: 740px;
     background-color: red;
+    display: inline-block;
+    vertical-align: top ;
 }
 .sub-content {
     margin: 20px;;
@@ -34,9 +37,3 @@
     background-color: purple;
     margin-left: 20px;
 }
-
-#cont2  
-    {
-    
-        display: flex;
-    }
