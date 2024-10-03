@@ -1,0 +1,20 @@
+.grey{
+    width: 950px;
+    background-color: #c0c0c0;
+}
+.green{
+    height: 150px;
+    background-color: #008000;
+}
+
+.blue{
+    height: 300px;
+    width: 200px;
+    background-color: #0000ff;
+}
+
+.red{
+    height: 400px;
+    width: 700px;
+    background-color: #ff0000;
+}
