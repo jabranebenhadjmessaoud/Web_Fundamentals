@@ -5,8 +5,8 @@
 .nav{
     display:flex;
     justify-content:space-evenly;
-    background-color: #333333;
-    color: white;
+    background-color: #000000;
+    color: #EFEFEF;
     padding: 10px;
     
 }
@@ -102,4 +102,22 @@ a{
     
 }
 .rcol1{
+    background-color: #333333;
+    width: 400px;
+    height: 40px;
+    color: white;
+    text-align: initial;
+}
+
+
+.box3{
+    margin-left: 60%;
+    position: fixed;
+    top: 60px;
+    justify-content:center ;
+    margin-top: 30px;
+    border-color: grey;
+    border-style: solid;
+    width: 400px;
+    height: 200px;
 }
