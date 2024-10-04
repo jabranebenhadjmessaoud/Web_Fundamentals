@@ -69,6 +69,7 @@ a{
     height: 180px;
     margin-top: 30px;
     margin-left: 10px;
+    justify-content: space-between;
 }
 .userpic img{
     width: 50px;
@@ -122,5 +123,5 @@ a{
     height: 200px;
 }
 .box4{
-    
+
 }
