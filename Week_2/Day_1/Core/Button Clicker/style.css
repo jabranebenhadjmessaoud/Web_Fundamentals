@@ -29,6 +29,7 @@
     height: 200px;
     border:solid;
     display: flex;
+    gap: 10px;
 }
 .container2boxes{
     display: flex;
@@ -69,5 +70,12 @@
 .left{ 
     display: flex;
     flex-direction: column;
-    gap: 20 px;
+    gap: 20px;
+    margin-top: 10px;
+}
+.right{
+    /* display: flex;
+    align-items: center; */
+    align-items: center;
+
 }
