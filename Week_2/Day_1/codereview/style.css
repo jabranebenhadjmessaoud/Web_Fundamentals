@@ -37,6 +37,9 @@
 .main{
     padding: 20px;
     background-color: white;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
 }
 .cardtitle{
     display: flex;
@@ -80,3 +83,17 @@
 .whitecard div{
     background-color: #daedff;
 }
+.footer{
+    background-color: #daedff;
+    padding: 30px;
+
+}
+.footer ul{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+    list-style-type: none;
+    color: #1468a8;
+}
+.footer ul li:first-child{color:#1a97e6;} 
