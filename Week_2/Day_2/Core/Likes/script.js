@@ -1,4 +1,5 @@
-var number=document.querySelector("#likenumber")
-function addlike(){
-number.innerHTML +=1 ;
+
+function addlike(change){
+    var number=document.querySelector(change)
+number.innerHTML ++ ;
 }
